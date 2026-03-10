@@ -27,4 +27,4 @@ Project analyses **data jobs** in 23 European countries using 2024 job posting d
 
 Public dataset obtained from a YouTube tutorial (shared in the video comments).
 
-![Dashboard Screenshot](images/Screenshot 2026-02-22 153132.png)
+![Dashboard Screenshot](Screenshot3.png)
